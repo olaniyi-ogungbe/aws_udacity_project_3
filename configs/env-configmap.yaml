@@ -9,4 +9,4 @@ data:
   AWS_REGION: us-west-2
   AWS_PROFILE: default
   JWT_SECRET: testing
-  URL: acda49abef7dc48e9bb72506bf8cbea4-68411690.us-west-2.elb.amazonaws.com
+  URL: a678ab5185c9948da9b494a376672767-887886218.us-west-2.elb.amazonaws.com
